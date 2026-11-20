@@ -1,0 +1,8 @@
+{
+  "name": "Jesan-Extention CloudStream Repo",
+  "description": "Auto-generated CloudStream 3 Extensions (Zero-Failure Edition)",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/HaxerAhmed/Jesan-Extention/builds/plugins.json"
+  ]
+}
